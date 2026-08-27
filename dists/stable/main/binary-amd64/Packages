@@ -1,0 +1,20 @@
+Package: platypusgit
+Architecture: amd64
+Version: 0.1.0
+Priority: optional
+Section: vcs
+Maintainer: Jonas Aasberg <jonas.aasberg@clave.no>
+Installed-Size: 37675
+Provides: platypus-git
+Depends: git, libwebkit2gtk-4.1-0, libgtk-3-0
+Conflicts: platypus-git
+Replaces: platypus-git
+Filename: pool/main/p/platypusgit/platypusgit_0.1.0_amd64.deb
+Size: 12078510
+MD5sum: 9da399d304d5bef55c153ea699c31db5
+SHA1: 08c76c247b10bc86e164ee1b988a8a992c111792
+SHA256: efadf6e3db65b1ec5295b4a5128029a8c4320de2c6f97d2d07568c68a6555265
+SHA512: 1eac5305c1dc5ff3988e9a6f880e530fda3c734b0d41c6266c615ce20115e66ea38ced604076615aadbf7df54516010ba9087fba956fa1747142035d0951f114
+Description: A developer-focused git client
+ PlatypusGit — a cross-platform, developer-focused git client.
+

@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Thu, 27 Aug 2026 11:57:28 +0000
+Description: platypusgit APT repository
+Label: platypusgit
+Origin: platypusgit
+Suite: stable
+MD5Sum:
+ 91af4e4f4b48192468b00291ff7a9a4b              762 main/binary-amd64/Packages
+ 138f380c2e53ac3f1040ce7f6d6128b2              510 main/binary-amd64/Packages.gz
+SHA1:
+ 4c8b47c800334f2777a52f8564fbde09b1f3cb4f              762 main/binary-amd64/Packages
+ 42ece316af03a6f70840645ad20c742ad2533b33              510 main/binary-amd64/Packages.gz
+SHA256:
+ c2be6d49c3ef2b04ee6f67a1343afd401463a82bdb1211d6c7d8564c70879e34              762 main/binary-amd64/Packages
+ 1f64338fffde403fb8abf55db03bc30fd819e0e00e65f8f58cbd9cab36a15ca3              510 main/binary-amd64/Packages.gz
+SHA512:
+ a7161e0f64b4572cebdecd3576bb79e1e7aa23f0fe4faf9cfbd5f27746bdb53280b5437fd07eaaeb34637f50ebdbbc3024081cec4dd67ba3617b0e5066fb80f8              762 main/binary-amd64/Packages
+ bd194c62b317974287989119d002e3f249e9c92bb8c2e57f8262cae709be5ee025a96b125f1eecfe8b86288f0a9686915b77478060ec2cb09a505222c155e2a4              510 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEKUwmGhZBcEU16sE33aU70sFfsfsFAmqQJigACgkQ3aU70sFf
+sftI+g/+MuPA8rOTR/sX0NfHEVZg5n+Wy2RP7xTU5DV+Re+20ZwfNeyprv3CJy46
+QNtE3rZPAR578JXaA85HiuVf2ziTvW8ixU+v7rVllWpOh8A+WefLBAENQkrl3a7O
+4eHQVM/w1EEZixtXhNMdNSd4SC5Tiyh4T5W3JjmVqktAvAIlr8SQfnRvMx5zkZVC
+evMiTcUvpwAnTygO6rdxXOmB1Jx10HMJ838llEinFPoQrDNrVWIGTdWn4DbJyVxB
+lg7+rsult9CxCCjbgmNlu4jJyTkRD1gyuAXWWPQAHyy3uxKXvhj+m0kO6U4M2VSW
+WWt5k0TvM0lQcBsbuINq6qkWvIq/OigzUVAYW0E+KQD7mC+zgKeYuyFKY/yS66Ou
+/KKUnEsDEQNONI/EYYARB1maL/spSpLKVZz9uJHpf90a/xL8HKcCjR8o1LYNd6Cd
+RP+EJ8GXJz1YxbGaI/nFZbrPMVjKhmVjR/IDvGAY7wyiBVoXLiU+mTwwgalK3kU8
+mVhLKfkH+z4I4ndkRbKYlxBvNGs7rVSZrXhbNzm3Ys5O3t13dz19SqAXH01HwGDH
+EHS5aIorUIEGlUIWRIgkTlRd0InCGKe3vygxi24WKbF84iDoBSMrTCz6NbejUiFa
+7UFitlyj7vQ8EnZSw5Uz8THGPbRTFeO4cimWViukl88oEgcT1i8=
+=03yc
+-----END PGP SIGNATURE-----
