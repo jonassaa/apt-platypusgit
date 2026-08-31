@@ -4,36 +4,36 @@ Hash: SHA512
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Mon, 31 Aug 2026 07:12:51 +0000
+Date: Mon, 31 Aug 2026 09:05:49 +0000
 Description: platypusgit APT repository
 Label: platypusgit
 Origin: platypusgit
 Suite: stable
 MD5Sum:
- a27677d0588e9238449ea9eeaeab7944             3048 main/binary-amd64/Packages
- 9cbbf46eca4a42f4afdd050a7e438cc1             1082 main/binary-amd64/Packages.gz
+ 17c9e2a2ad33f4a60e5a95219a7b6f47             3810 main/binary-amd64/Packages
+ efc7fd4e0a78ca3f5812606c9411536b             1268 main/binary-amd64/Packages.gz
 SHA1:
- 700ebead487cbfed62adbf50337f51f412b89d5b             3048 main/binary-amd64/Packages
- 2d3bbae087692cc94338963940753b8f6d158d19             1082 main/binary-amd64/Packages.gz
+ 604c04b671a3628bb2d2cb088545421545dd54f8             3810 main/binary-amd64/Packages
+ 7a69ece35cf3f34110057778a0b3ce471a6bdbf0             1268 main/binary-amd64/Packages.gz
 SHA256:
- 0eeded00e0315d89949ff08a6e7639284839735b4aed80627fa34745c6c41b59             3048 main/binary-amd64/Packages
- 93ee7c7e40df384b402555393e4c05b53faf205fa1bd0e13ea1e0095c40c1133             1082 main/binary-amd64/Packages.gz
+ a4a60a266e182245c7237a1adfc76b01977c02145071c7bdc66eaf95b2d0bbc7             3810 main/binary-amd64/Packages
+ e1d5d5fb9672daa54b96677ee06e12eecf614fb2b8e3b0120e9409240f00ff30             1268 main/binary-amd64/Packages.gz
 SHA512:
- 2e160cd24e06300c3a40d235d43cd39b20ef6ffb482a17dacb81ba9899173b5066dc994ca057a0fedcbbf0233ca1e7015de8bc5cba6c003609ff5b8922ce65be             3048 main/binary-amd64/Packages
- a55e2324027aa3627299f0d111e990b6ea36d67c2d6a3f49c8d99d0f22c49e60760e8823d1b0932ce5feb1c26a71887840dfa02c610dcf6afe742ca9e490678c             1082 main/binary-amd64/Packages.gz
+ fb0c40e659cdc4503e6bd09063299c8f7cb2e3b7013f1f4c96cb3c46f0c7551d33712dff880e43986d7fb9d445c7ffaed1fa4540b21f9a2e65372f22abc2481b             3810 main/binary-amd64/Packages
+ bc4cb6846818b4e1746a5c429af1f7564f0be325c064c4bc95af0bd00be0010f54dbde3c1d634a15743180505266fe6fc4ca3c1b8961b1ea1502841896e7dd8d             1268 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEKUwmGhZBcEU16sE33aU70sFfsfsFAmqVKXMACgkQ3aU70sFf
-sfsIOBAAjoZdhWeu4vsNbfkG8UxnSshBcxfUjiiieDjbmnzhhVSOqi2M53v/Xo//
-DM1XxtsZey3vYmxGU+V64s05T7h668HZsiEzhOOAO3jRq+p5oYD/c500NuPFOgWM
-uLsa+R1EiLoVqp6KD9v5Wg2qhG6MZGSg6Bu7y3lkNcqyMeFU1NIm06+Tn1row0f/
-GebmK7HNn7kdlBuKnFgEc8XRor9nClk4exItqStIjdJhNBhCsWdy6+BfqqzNrHEH
-73p6UIpBU/uALTKCUDrgpbhsjTv7T/4pilbgoHgoGd3+kAtRRZwru97eSSIPcFEv
-TX1cROkxRjmajn71Y+BQ58K+PvttvjBvALe7TKaqDzllJogSe5TsfL3SYme0ynZS
-/AjRqPUYuH1Me9f/r69SwWJ83XUHzppJPv3ECAG2UaQfKaYwjo4GGeFjmpmDPDjy
-sP9qi3FX/bhKzeavYK677CE8Wk2cu8C3+8fts7CV2Dy59qUFi+r3qV9Gt5u0K/VO
-iTpl0Xag1rSCr+zyYN/4pr0B6YL9xDZP0I5f7H+eH3QvqrW2rVOQ7uSPHhRsXc1D
-7H8Y8Gy2CnzW6xa2ZVj3rj2sAUc7/W3li3mrs7Bk3GXQqDogQGCXhrnFuI8epsyE
-xCCl5I4NXP7Oos7rbdR6vLJyAemAz5Phj1EHRV9aAeOrAfhMEqo=
-=Kf+k
+iQIzBAEBCgAdFiEEKUwmGhZBcEU16sE33aU70sFfsfsFAmqVQ+0ACgkQ3aU70sFf
+sfv/aRAAxf2/s0JppEk3tUaYblVQxnNfjDUorWvjYvhWSEFYLUEYCxYp+K4TV+9p
+iAJh1hGAREPiN6t+uY9PcxayX+CDsC2UqdFp8fkuJxo0HK0FqW/jXxGTT683wnJ3
+Yelg6FZZsN4SyeYsd+mZnYrWWsarSdUjdDqgGWtACz5TDKd64nAoZHmXbauuZwpB
+7+0Kp3KBe/2cnJ58S/MJa0zLUzDjDIhJ/+kF3mDzD45dBUz7KVKMUnyLzYB7cgdu
+w8RilY9u9AhonIV9+g7riE3QhzBuhX0YcmwtCnBb3nmAevzxmJbdEDQ0/2XDY/6X
+AZzZ73QsFnk+q7seys65XRYthiqBF5KnbSWnDyxwbQtHAYGJxl40hvusUhtOgoqO
+W9LWaKP9QdQLySuVSvyUic0x7gO3GwSdcsvDf7HKJvCfpSrBz1z7amcRbkfp1+TY
+1HNKGVUDNn5+Igiohzz2eBmWF9y2F5QWq6izvhYYPHgLqK/FSAj4iMPHIoPVvVJ4
+JXPh92e8dnuDiH0RV2lpmrO+L2LP73CD8kz5u9hpp5MRX0FKidueYtghy/5mek5k
+2YSLTkrN5Tdl+v5dsuby66JhbMFQZL2W/glLWAiWYEs0SHwXabVUDIfp+C43hggV
+wRW6vrSbmDFNAcb6zbxDQqi1ThWCSbPvjKIpzz7kYzkmq5l4EXI=
+=5gUq
 -----END PGP SIGNATURE-----
