@@ -70,11 +70,11 @@ Depends: git, libwebkit2gtk-4.1-0, libgtk-3-0
 Conflicts: platypus-git
 Replaces: platypus-git
 Filename: pool/main/p/platypusgit/platypusgit_0.2.0_amd64.deb
-Size: 12360054
-MD5sum: 8bf9fed7dc8567ff6d985f39a0e866dc
-SHA1: f437fdd5dee622f98ebeaa16301891b3fe6f00f5
-SHA256: 38023d28597f6132d5e73e964e8858026e6ce1257ae0ab99fc35bbeb1d28a0c4
-SHA512: 0d8e4cbf23135275ce7f0d220e47362402b514b04deb3a60e42890f374fb8408931b57dfa58595e582566a9c466826c9a8da7a4c39effcfd39f627268faeef16
+Size: 12360056
+MD5sum: 1a22358604fcb02278ae3c510b29f70e
+SHA1: 0b0ef541eb7a03aff79d0e06d6b54719bf306e1f
+SHA256: 6b3512fdd034e92fa53831124206dc3acb6d2d9fd9aac2533513dcd99377d596
+SHA512: f49fa24ad939b6c7df626b304d9f32d5270b221f95873f21de594821c5ce16498e5ac2a1599ebff68dd738fdde1efff6e4423da62895ed4e85f3be83496ba8f3
 Description: A developer-focused git client
  PlatypusGit — a cross-platform, developer-focused git client.
 
