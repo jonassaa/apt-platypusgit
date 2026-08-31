@@ -1,20 +1,20 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Mon, 31 Aug 2026 05:58:08 +0000
+Date: Mon, 31 Aug 2026 07:12:51 +0000
 Description: platypusgit APT repository
 Label: platypusgit
 Origin: platypusgit
 Suite: stable
 MD5Sum:
- b91a9e10aeded90ffd032bcd1de1b1b0             3048 main/binary-amd64/Packages
- 48b21cfc1e882725f269d97650501545             1085 main/binary-amd64/Packages.gz
+ a27677d0588e9238449ea9eeaeab7944             3048 main/binary-amd64/Packages
+ 9cbbf46eca4a42f4afdd050a7e438cc1             1082 main/binary-amd64/Packages.gz
 SHA1:
- 62458eaba33fdd6695fddcdcd38dff01fde42000             3048 main/binary-amd64/Packages
- 73505e2ed132b0c1080c5401f0dc40a623a2cddb             1085 main/binary-amd64/Packages.gz
+ 700ebead487cbfed62adbf50337f51f412b89d5b             3048 main/binary-amd64/Packages
+ 2d3bbae087692cc94338963940753b8f6d158d19             1082 main/binary-amd64/Packages.gz
 SHA256:
- 3bec3607111542c304988157cf896fca309a58faf05180727599b10963209d98             3048 main/binary-amd64/Packages
- f216d0c6abba70676fd13a6b2fbe8ab8a046b5235bead1b9fd5cbdd917992d63             1085 main/binary-amd64/Packages.gz
+ 0eeded00e0315d89949ff08a6e7639284839735b4aed80627fa34745c6c41b59             3048 main/binary-amd64/Packages
+ 93ee7c7e40df384b402555393e4c05b53faf205fa1bd0e13ea1e0095c40c1133             1082 main/binary-amd64/Packages.gz
 SHA512:
- c9025d3add5278671399d265adcafa239bb65db063e59493614b46ad971245cbfeb7f7135f43938e8a760f5d79cf9f4854f8dfe96bdba8172172873adebd42e7             3048 main/binary-amd64/Packages
- 158e014db02ef00f9d5a81cbc3745a61805e4a93eef0dcaaf88f7f353eb4b65d7adc887fea335ff2dee7f162f124ded243901e357dc83b2a9be33af5a8203fc3             1085 main/binary-amd64/Packages.gz
+ 2e160cd24e06300c3a40d235d43cd39b20ef6ffb482a17dacb81ba9899173b5066dc994ca057a0fedcbbf0233ca1e7015de8bc5cba6c003609ff5b8922ce65be             3048 main/binary-amd64/Packages
+ a55e2324027aa3627299f0d111e990b6ea36d67c2d6a3f49c8d99d0f22c49e60760e8823d1b0932ce5feb1c26a71887840dfa02c610dcf6afe742ca9e490678c             1082 main/binary-amd64/Packages.gz
