@@ -1,20 +1,20 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Wed, 02 Sep 2026 11:05:55 +0000
+Date: Wed, 02 Sep 2026 12:07:47 +0000
 Description: platypusgit APT repository
 Label: platypusgit
 Origin: platypusgit
 Suite: stable
 MD5Sum:
- a760819d72acc9500d35318209ea7133             6858 main/binary-amd64/Packages
- 0488d4a41a48df472fabb1fba07fcd2f             2013 main/binary-amd64/Packages.gz
+ 9ad0bdcdab6282789991b97610fc9b5a             7620 main/binary-amd64/Packages
+ f51f7219065312814cacb468b1a8b372             2199 main/binary-amd64/Packages.gz
 SHA1:
- ac06072626883f2892694754aef710cc6c3b276e             6858 main/binary-amd64/Packages
- aab48af5351840f99d26c73cd4673d9139c64651             2013 main/binary-amd64/Packages.gz
+ cada6b2ab0f103a7888e2633b119c54109b50a62             7620 main/binary-amd64/Packages
+ 76f2ae03821866cc6b088be3daafb4a98a3cdaea             2199 main/binary-amd64/Packages.gz
 SHA256:
- 553e82d1b398de7a27a11c1723499c175a204569a16486df044beb0ab605308e             6858 main/binary-amd64/Packages
- 49c89642b958fc2abe5a451ec4304d30107dc2a79e84f507916a42f3d6cfe699             2013 main/binary-amd64/Packages.gz
+ 68a99a9e66abea9b7ce1f96e243fe04757436e2474b2f67ed8b1484828a31c1d             7620 main/binary-amd64/Packages
+ 8b6b3e66b671746ddd4804fa018a8c687876736d8b3ce593d8899a1941be03aa             2199 main/binary-amd64/Packages.gz
 SHA512:
- fc7bd323e0a6fadd05034fc3050081b90519d72ec697defe197a55c3bc70b75afd35f9e85608ea2dd193eb271846bff693597074fb38756e2d17b74a49d33785             6858 main/binary-amd64/Packages
- dc999eb5e8331f8d912ac35a824d6dcf1de03d23992cc05b5ac6832f86e09016e88583acc342550b942492c82adafe53258baafd750060edc8dfe2cdc31199ce             2013 main/binary-amd64/Packages.gz
+ 5ac53adf34aa03dd8fa429e5e1dd335973338131c8a97a4a30d8b42d3ecb383d84fc15b2270d03e9a747ea48b9fdacb2ff8a1c1bd497f18e6ffa64f8e3f9eb8c             7620 main/binary-amd64/Packages
+ 68733ac513a838945faf9de39d6226eaddd454c17115d0f1dc0882f094b420c999d61838f4ac3e4ab6159fd2a66671c097a80dd6fd57b11209bf567429a5e05c             2199 main/binary-amd64/Packages.gz
