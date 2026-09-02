@@ -138,3 +138,23 @@ SHA512: 9a16d68bd4381215a8fa22470ce5dd58efa1a1a64f6d5e562692f56fe17a987bc7f13bf0
 Description: A developer-focused git client
  PlatypusGit — a cross-platform, developer-focused git client.
 
+Package: platypusgit
+Architecture: amd64
+Version: 0.4.0
+Priority: optional
+Section: vcs
+Maintainer: Jonas Aasberg <jonas.aasberg@clave.no>
+Installed-Size: 34577
+Provides: platypus-git
+Depends: git, libwebkit2gtk-4.1-0, libgtk-3-0
+Conflicts: platypus-git
+Replaces: platypus-git
+Filename: pool/main/p/platypusgit/platypusgit_0.4.0_amd64.deb
+Size: 10677040
+MD5sum: 975b688477f92c4814b9ec0bd2a3c546
+SHA1: 6aa01bf8433bd151516c731408e78129d12b14d2
+SHA256: 2beccb4d6a0c1dcdbfbfff67d0a40f182b405c39fc188d203ea392cfededca68
+SHA512: 74085009c5f6fe91affadbe479e8c5549644020032dc6f57a5f32e39e8df494680ad03587ec06c3edcd9cccc6326418b746aa6ead4f1c400502c6037f421a035
+Description: A developer-focused git client
+ PlatypusGit — a cross-platform, developer-focused git client.
+
