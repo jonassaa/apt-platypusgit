@@ -1,20 +1,28 @@
-Architectures: amd64
+Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Thu, 03 Sep 2026 12:20:32 +0000
+Date: Fri, 04 Sep 2026 11:44:55 +0000
 Description: platypusgit APT repository
 Label: platypusgit
 Origin: platypusgit
 Suite: stable
 MD5Sum:
- 2ca4bf967b687b6419eaeb911e36b797             7620 main/binary-amd64/Packages
- 334931e9b4ccf661cf827b395f458b11             2207 main/binary-amd64/Packages.gz
+ b3d3f3cbaa6fc3ea2dc3b0ded82be58c             7620 main/binary-amd64/Packages
+ 48974dafb56f704dda4faff7a001c6b1             2205 main/binary-amd64/Packages.gz
+ 71c135121bddf85f0daa2b0492eb0131              762 main/binary-arm64/Packages
+ b0870e26d7350b1c72459f0e7d2ce66a              509 main/binary-arm64/Packages.gz
 SHA1:
- f38c4e0399f37cc1bbaa5aa555020768145faac0             7620 main/binary-amd64/Packages
- c0618064c0478321dd8727fc8811d3d985bc90c6             2207 main/binary-amd64/Packages.gz
+ d73d4845413e5f894f8de6c91c49d7776bafb467             7620 main/binary-amd64/Packages
+ f769eeb0ce9b8ced7344cdb02c0173e6dbd7a216             2205 main/binary-amd64/Packages.gz
+ 937760bbe27b43dfadaceb55da9a799187b9d14a              762 main/binary-arm64/Packages
+ 4520533cbcb41077c7437fdba65e2defa1e16fa6              509 main/binary-arm64/Packages.gz
 SHA256:
- 8f7a93cc44deca6a37df57e966237c489fec17ad9e9c9bafc5697e72d0312ba8             7620 main/binary-amd64/Packages
- 563562f0629250796d523faafa45a0ac679674c5b387df0ba777d27aee4cc135             2207 main/binary-amd64/Packages.gz
+ 4467caa49ca2130d124ec41d41da4baf8fe8c58e2261cb53ce2d511194fd35b0             7620 main/binary-amd64/Packages
+ 02e28d7e0462f5de14b6279ae274ef07fd41b2716b73e58a6db9b76622ed27b2             2205 main/binary-amd64/Packages.gz
+ dab94ce8d2138fc2cd172eb6730f2b4a432473459302383c37f59473f2965c31              762 main/binary-arm64/Packages
+ 7b8f0fddd24a3ad70c5e1575f2b0354d23df00278ced945a53f5dbbba7549237              509 main/binary-arm64/Packages.gz
 SHA512:
- 842aaa4b7ac551120998c93d0e7a081367972820fd5586f16215d75b1ca63a3c1b7863bc3e10c637cb5c47c4690d1b1a1887b54d15bda7cd421fcc4b95109054             7620 main/binary-amd64/Packages
- 0105c8c3869cd9da123d9ff4d5f4b4152a87b5ed9cd52d258e4f625e27fc52c4c81d23a5bf6860060573124fdfdb0eccb73b19df1bead9cf9cc900b184229ca4             2207 main/binary-amd64/Packages.gz
+ 49ce4e55559a0de693c1743a1c9170db7134ff4a3866686665343d7ed2b0fcc7568191ab7e06127b58b7621bc73415167726ee7ec06f01495f845489da5d1190             7620 main/binary-amd64/Packages
+ 76beec3d8097782fbf4c87e45d03a7228233f35b7fcf34d90e801c0f095bc38c0a8d7cba51dead1ebee5fe8716060e797839e7339cd9c4e5f702982ce30a17ea             2205 main/binary-amd64/Packages.gz
+ 25d6d2e76552491baaf925891b7ba7da591a3096acf89dceedd6f219b39314f1af650220c09d61a075d48c983c6b2bcc6f354bdb582d9dc04dec99b0f6bdce97              762 main/binary-arm64/Packages
+ f306119a68bce96181ab2d98cfda08ca349af32d54b5ecb827cc63390d0fc8b904ad0354b91b184fb53cb450eda2fca7561d3f3c6e2d8d44b511bb89eeb8cb1a              509 main/binary-arm64/Packages.gz
