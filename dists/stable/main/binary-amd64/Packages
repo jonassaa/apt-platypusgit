@@ -1,25 +1,5 @@
 Package: platypusgit
 Architecture: amd64
-Version: 0.1.2
-Priority: optional
-Section: vcs
-Maintainer: Jonas Aasberg <jonas.aasberg@clave.no>
-Installed-Size: 37847
-Provides: platypus-git
-Depends: git, libwebkit2gtk-4.1-0, libgtk-3-0
-Conflicts: platypus-git
-Replaces: platypus-git
-Filename: pool/main/p/platypusgit/platypusgit_0.1.2_amd64.deb
-Size: 12113642
-MD5sum: 141a7bfd68b0e15cc9b1086098c85ee5
-SHA1: 740ea252020a51f202d470c6a4774fe9384420ee
-SHA256: 93373cdd37cc445de5d73c467d6eb92fb6778f67468c3615165381919140e8c9
-SHA512: a2827eac96dfa8888966feeeea39fafc5bc5c99baa2543fd6648e574e8dd0b3db38b33e863d6bf9bf3e64b634ba0b685d1e24b98154ebcbfe768aed1f02fea50
-Description: A developer-focused git client
- PlatypusGit — a cross-platform, developer-focused git client.
-
-Package: platypusgit
-Architecture: amd64
 Version: 0.2.0
 Priority: optional
 Section: vcs
@@ -195,6 +175,26 @@ MD5sum: 5eae279dafa0d90fe13aac71d6d58af9
 SHA1: b78668bd058288085d54cdc74f41424bbfd68045
 SHA256: 17b66744646cce0b29854383c33d044b1b963db351f4b85665b518d4e9bb36b5
 SHA512: 971cdce4dea65debd96b543517216a05c2ec3b357fee22b6d196a6bcb32d9771590dbb5f8e9b778f8c59334a13aab63a5b5ba0bf5cb6c8326cf376d1b841bdcd
+Description: A developer-focused git client
+ PlatypusGit — a cross-platform, developer-focused git client.
+
+Package: platypusgit
+Architecture: amd64
+Version: 0.8.0
+Priority: optional
+Section: vcs
+Maintainer: Jonas Aasberg <jonas.aasberg@clave.no>
+Installed-Size: 35277
+Provides: platypus-git
+Depends: git, libwebkit2gtk-4.1-0, libgtk-3-0
+Conflicts: platypus-git
+Replaces: platypus-git
+Filename: pool/main/p/platypusgit/platypusgit_0.8.0_amd64.deb
+Size: 10893118
+MD5sum: eb40ecc9dce4355caf7ddeeac084de38
+SHA1: a82e68088fb9489a9acec16dcfb1c4c5f3d70d78
+SHA256: e47ca921deee36557a4844a242f2ab5c01b9833353ea542147bd6a850e66a3c0
+SHA512: 730fa8cc5594aa8ecd48093671282c094439c04b40f470479b085683292933c155516fa4b6f322e411458e10e67067aeada5ded876b9bf16988a775ba7dcd1a1
 Description: A developer-focused git client
  PlatypusGit — a cross-platform, developer-focused git client.
 
