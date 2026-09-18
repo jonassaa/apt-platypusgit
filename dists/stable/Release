@@ -1,28 +1,28 @@
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Thu, 17 Sep 2026 07:11:36 +0000
+Date: Fri, 18 Sep 2026 07:10:44 +0000
 Description: platypusgit APT repository
 Label: platypusgit
 Origin: platypusgit
 Suite: stable
 MD5Sum:
- 6a4c37fba5f4ac89c1fcd39c711eb5cc             7624 main/binary-amd64/Packages
- 8a03e3fc10c73002de05d96bfa5c85b1             2203 main/binary-amd64/Packages.gz
- b1c211ee347ed11653e25212601bb75f             3814 main/binary-arm64/Packages
- 9b8052d1cbc769ff194546665b04748a             1274 main/binary-arm64/Packages.gz
+ 52817f2b5f5340728230762f483532ea             7626 main/binary-amd64/Packages
+ 95bb75e27594a797a84bdd175ff318bd             2203 main/binary-amd64/Packages.gz
+ 585fe21aae9e624d2d66dfab89097b21             4578 main/binary-arm64/Packages
+ ec525b305baebd53510c38e6045662e1             1459 main/binary-arm64/Packages.gz
 SHA1:
- 082e3d117bdc8ed0abe24b0e913fa64a226b70f6             7624 main/binary-amd64/Packages
- e4805f1843585eb784b495fcceb2afa769861461             2203 main/binary-amd64/Packages.gz
- 575dcd8a0c6de273792b9b1dfbeae9ba0033b8aa             3814 main/binary-arm64/Packages
- 48907194df2ad6fd31d9ed58d350f9d1a8570836             1274 main/binary-arm64/Packages.gz
+ 82c9cb6a65d310e920724886335a6ba07260943f             7626 main/binary-amd64/Packages
+ 24556a65173723e244829b421a408d604c3df3e4             2203 main/binary-amd64/Packages.gz
+ dcf2c819d7e5ee712d04575feec94f364d752ea2             4578 main/binary-arm64/Packages
+ 208a3458c3a81d0589755fabaf68c4d84bd6860b             1459 main/binary-arm64/Packages.gz
 SHA256:
- 0a93ddb69285e531dbaf922b21c941e230a230a1f97e53cfae24140461a1e61e             7624 main/binary-amd64/Packages
- c97b9223843e4e025416bdea00512e38471031d1df3393182fb978895add9c5c             2203 main/binary-amd64/Packages.gz
- 473d3b785bc6a2371544c45014dc401f85e057841573706d1dab543a29e9c634             3814 main/binary-arm64/Packages
- 77fbf2be13850da4db81b609875bd21e35da8eb885b029f9a7f1d9116261c72e             1274 main/binary-arm64/Packages.gz
+ 2a5ee6e092699f857bf6f491105779acdb7a904d83b3c2041a2c607d3e3b2f43             7626 main/binary-amd64/Packages
+ ee62ba66cbd329a99289540dd47298664ed56c490264d57aa239c48f63ad1dac             2203 main/binary-amd64/Packages.gz
+ 06cb850130604b923ae6f90ab963be0228f5162ffaf896f935aa6506591ebed7             4578 main/binary-arm64/Packages
+ 74b08b208fd0f4892558e41b844f31cea541479854b4fc28d6a61071937b3af2             1459 main/binary-arm64/Packages.gz
 SHA512:
- 426bbc6eacc354bf83231b3e73351454add43bc52f3d9ab002bc5d4de9f78ba6663002b646af9be66ff3aaaa2d1c891fd108d437325cb1672fbae9a1af65fc79             7624 main/binary-amd64/Packages
- c9d77796bf18241959f789ec324e3bd9d5a7b49b6e0ba398f369f21aab85584632be7d26d72e431175a7b4ef5a62305a0bbb9cb9071b5a292cdbdcc0b3a54b80             2203 main/binary-amd64/Packages.gz
- f1a92ff6b7023b8fb98d876342fa80e93ad808f5dafd6555c83ba42ebe42ab88f62c239e66e8a5c1b9b9448d1a046460c6fcc4ece1d5878a23daa0cb04e68ee7             3814 main/binary-arm64/Packages
- d85c7ff4b31fef4962e633531487760240e4d0d53fc614bc0f3aa860ca3465092c6e9e6d9508127253929607e3c9188c0a86fb871e009449b042672e38ea1f1f             1274 main/binary-arm64/Packages.gz
+ 116159ac3cf567f6ea75b52c010966302e63d1ba1b9bd2dfd4b498d1271ace5a220671ec3a8cde4939423833b84d50e6b48ac88b6a02a8f839938f9c38c36018             7626 main/binary-amd64/Packages
+ 3b896da428a254e51c4d75627951af58f2ddb5ccf93513dcc7204239ed3d1d20fc2b21d4a8a703a15b671ed0798beec4a3d953e99e74e50b1ba974242496f505             2203 main/binary-amd64/Packages.gz
+ 44859008570a2ebe7967a06ca41dab2975de6828e3def3b6c4b5445fde822d457f5f4fc4ad828169926f9ba86366a0429f81fce265f36351f22f359e78a0ed94             4578 main/binary-arm64/Packages
+ c97f8930ef67a2242037c49a65782db8d26d8ad1526d54c5554758bd7578d147796ec1c0543124d288415ccc0c39b8146c103d96603c019ba516ad491eb8a04e             1459 main/binary-arm64/Packages.gz
